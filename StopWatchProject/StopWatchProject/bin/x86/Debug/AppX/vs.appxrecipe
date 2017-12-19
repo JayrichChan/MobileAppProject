@@ -16,7 +16,7 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>D2BC3B4E6388DEF8CA5DF71EA3D289225912FC221826CCB2D2DE10715D3A847E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>669A2460320E66E527B9EC84433F7201F5A94B96A30A7B4E977C63A27E044EA8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d49fd02d-efa4-492e-8f6b-647042160486_1.0.0.0_x86__yzekw4x8qxe1g</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d49fd02d-efa4-492e-8f6b-647042160486_yzekw4x8qxe1g!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d49fd02d-efa4-492e-8f6b-647042160486</RegisteredPackageID>
@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-18T21:45:22.860</Modified>
+      <Modified>2017-12-18T21:21:04.906</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\bin\x86\Debug\StopWatchProject.exe">
       <PackagePath>entrypoint\StopWatchProject.exe</PackagePath>
-      <Modified>2017-12-18T21:45:20.366</Modified>
+      <Modified>2017-12-18T21:21:01.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -452,10 +452,6 @@
       <PackagePath>Assets\background.jpg</PackagePath>
       <Modified>2017-12-17T15:46:31.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\Square71x71Logo.scale-400.jpg">
-      <PackagePath>Assets\Square71x71Logo.scale-400.jpg</PackagePath>
-      <Modified>2017-12-18T21:38:03.453</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
       <Modified>2017-12-18T19:44:04.744</Modified>
@@ -472,7 +468,7 @@
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-18T21:40:17.944</Modified>
+      <Modified>2015-09-20T17:30:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
@@ -508,11 +504,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2017-12-18T21:45:22.276</Modified>
+      <Modified>2017-12-18T21:21:04.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\bin\x86\Debug\Core\StopWatchProject.exe">
       <PackagePath>StopWatchProject.exe</PackagePath>
-      <Modified>2017-12-18T21:45:22.855</Modified>
+      <Modified>2017-12-18T21:21:04.901</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\user\Documents\GitHub\MobileAppProject-master\StopWatchProject\StopWatchProject\bin\x86\Release\StopWatchProject_1.1.0.0_x86.appx
+SymbolPackage=C:\Users\user\Documents\GitHub\MobileAppProject-master\StopWatchProject\StopWatchProject\AppPackages\StopWatchProject_1.1.0.0_Test\StopWatchProject_1.1.0.0_x86.appxsym

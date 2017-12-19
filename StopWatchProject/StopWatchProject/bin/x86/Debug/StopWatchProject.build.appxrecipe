@@ -337,6 +337,9 @@
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\Square71x71Logo.scale-400.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-400.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\MobileAppProject\StopWatchProject\StopWatchProject\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
     </AppxPackagedFile>
